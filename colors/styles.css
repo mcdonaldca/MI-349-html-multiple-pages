@@ -1,0 +1,27 @@
+h1, h2 {
+	color: white;
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	color: white;
+}
+
+.eighteen {
+	background-color: #654FA4;
+}
+
+.nineteen {
+	background-color: #FF7062;
+}
+
+.twenty {
+	background-color: #0E4C82;
+}
